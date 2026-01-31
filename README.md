@@ -1,7 +1,9 @@
 # Zombies vs Los Watterson
 
+![Gameplay](gifff.gif)
+
 Juego hecho en Python con Pygame.
-![Gameplay](img/gifff.gif)
+
 ## Controles
 
 - Gumball: W A S D + ESPACIO para disparar
