@@ -1,7 +1,7 @@
 # Zombies vs Los Watterson
 
 Juego hecho en Python con Pygame.
-![Gameplay](img/gifff.gif)
+![Gameplay](gifff.gif)
 
 ## Controles
 
