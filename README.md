@@ -1,6 +1,5 @@
 # Zombies vs Los Watterson
 
-![Gameplay](gifff.gif)
 
 Juego hecho en Python con Pygame.
 
